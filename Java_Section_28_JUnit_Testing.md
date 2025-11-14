@@ -185,5 +185,4 @@ gradle test
 
 ---
 
-## End of Section 28
-Next section will cover **Maven & Gradle (Build Tools)**.
+

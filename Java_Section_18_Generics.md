@@ -225,5 +225,4 @@ class Pair<K, V> {
 
 ---
 
-# **End of Section 18 — Generics**  
-Say **"next section"** to continue (Java I/O — Streams, Files, Reader/Writer, NIO).  
+

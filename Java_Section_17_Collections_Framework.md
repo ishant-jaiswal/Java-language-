@@ -252,5 +252,3 @@ Collections.min(list);
 
 ---
 
-# **End of Section 17 — Collections Framework**
-Say **"next section"** to continue (Generics).

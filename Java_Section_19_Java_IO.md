@@ -269,5 +269,4 @@ Files.list(Path.of(".")).forEach(System.out::println);
 
 ---
 
-# **End of Section 19 — Java I/O**  
-Say **"next section"** to continue (Concurrency: Threads, Executors, Synchronization, Locks, Futures).
+

@@ -1,9 +1,6 @@
-# TODO: Upload Java Language Sections to GitHub
+# TODO: Commit and Push Updated Java Language Sections to GitHub
 
-- [x] Check if Git is installed on the system
-- [x] Check if Git repository is initialized in the current directory
-- [x] Initialize Git repository if not present
-- [x] Add GitHub remote origin
-- [ ] Add all files to Git staging area
+- [x] Check Git status for changes
+- [ ] Add all updated files to Git staging area
 - [ ] Commit the changes with a descriptive message
-- [ ] Push the commit to the main branch on GitHub
+- [ ] Push the commit to the master branch on GitHub

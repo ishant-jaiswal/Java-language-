@@ -344,9 +344,6 @@ These patterns form the foundation for writing clean, maintainable Java applicat
 
 ---
 
-## End of Section 31  
-🎉 You have completed the Java design patterns section!
 
-Next section (if needed):  
-**Java Interview Questions (Mega List)** or **Full Project Example**.
+
 

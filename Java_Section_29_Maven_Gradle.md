@@ -211,8 +211,5 @@ jar {
 
 ---
 
-## End of Section 29
-Next section will cover:
 
-# **Section 30 — Popular Frameworks Overview (Spring, Hibernate)**
 

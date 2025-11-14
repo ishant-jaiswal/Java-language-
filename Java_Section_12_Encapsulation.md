@@ -207,5 +207,3 @@ class BankAccount {
 
 ---
 
-**Next Section:**  
-### **Section 13 — Packages in Java (Built-in & User-defined Packages, Import Keyword)**

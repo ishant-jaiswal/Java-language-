@@ -183,5 +183,3 @@ public class Test {
 
 ---
 
-# **End of Section 15 — Exception Handling**
-Say **"next section"** to continue (Java Standard Library Essentials).

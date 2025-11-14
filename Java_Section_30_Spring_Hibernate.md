@@ -244,8 +244,5 @@ List<User> result = q.list();
 
 ---
 
-## End of Section 30
-Next section will cover:
 
-# **Section 31 — Design Patterns (with code examples)**
 

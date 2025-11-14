@@ -222,5 +222,3 @@ class UPITransaction implements Transaction {
 
 ---
 
-**Next Section:**  
-### **Section 12 — Encapsulation (Getters, Setters, Access Modifiers)**

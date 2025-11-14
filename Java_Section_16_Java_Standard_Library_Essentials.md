@@ -182,5 +182,3 @@ Objects.isNull(null);      // true
 
 ---
 
-# **End of Section 16 — Java Standard Library Essentials**
-Say **"next section"** to continue (Collections Framework).

@@ -203,7 +203,3 @@ public class Main {
 - Polymorphism increases flexibility & code scalability  
 - Used heavily in frameworks like Spring, Hibernate  
 
----
-
-**Next Section:**  
-### **Section 11 — Abstraction (Abstract Classes, Interfaces)**  
