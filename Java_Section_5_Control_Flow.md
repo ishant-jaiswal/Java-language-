@@ -260,8 +260,4 @@ This is one of the most important chapters for logic building.
 
 ---
 
-# 🎉 Next Step
 
-When you say **Next Section**, I will generate:
-
-## **Section 6 — Arrays in Java (1D, 2D, Jagged, Operations, Searching, Sorting) in `.md`**  

@@ -262,8 +262,4 @@ This is one of the most important fundamentals.
 
 ---
 
-# 🎉 Next Step  
-
-When you say **Next Section**, I will generate:
-
-## **Section 7 — Strings in Java (String methods, immutability, StringBuilder, StringBuffer)**  
+ 

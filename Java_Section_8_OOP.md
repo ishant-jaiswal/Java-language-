@@ -224,5 +224,4 @@ new Car().display();
 
 ---
 
-**Next Section will include:**  
-### **Section 9 — Inheritance (Types, super, overriding)**
+

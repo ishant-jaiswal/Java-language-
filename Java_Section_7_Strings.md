@@ -230,7 +230,4 @@ You learned:
 
 ---
 
-# 🎉 Next Step  
-When you say **Next Section**, I will generate:
-
-## **Section 8 — Object-Oriented Programming in Java (Class, Object, Constructor, this, static, packages)**  
+ 

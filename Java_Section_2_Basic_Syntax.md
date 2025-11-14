@@ -251,7 +251,4 @@ basics - Coding style used in professional Java development
 
 ------------------------------------------------------------------------
 
-### ✔ Ready for next section:
 
-**Section 3 --- Primitive Types & Variables (Deep Explanation)**\
-Reply **"Next Section"** to continue.

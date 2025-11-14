@@ -268,6 +268,5 @@ class B extends A {
 
 ---
 
-**Next Section:**  
-### **Section 10 — Polymorphism (Compile-Time & Run-Time) — Deep Explanation + Examples**
+
 

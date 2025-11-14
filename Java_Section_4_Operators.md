@@ -214,8 +214,4 @@ System.out.println(result);
 
 ---
 
-# 🎉 Next Step
 
-When you say **Next Section**, I will generate:
-
-## **Section 5 — Control Flow Statements (if, else, switch, loops) in a new `.md` file**  
